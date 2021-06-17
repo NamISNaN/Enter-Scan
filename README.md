@@ -9,6 +9,8 @@ npm install
 ```
 npm run serve
 ```
+git subtree push --prefix dist github gh-pages
+
 
 ### Compiles and minifies for production
 ```
