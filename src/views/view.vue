@@ -50,7 +50,7 @@
         >
 <div style="max-height: 500px;overflow: auto;margin-top: -30px">
 
-            <el-form ref="form" :model="form" label-width="100px">
+            <el-form ref="form" :model="userData" label-width="100px">
                 <el-switch
                         v-model="inSchool"
                         active-text="离校扫码"
