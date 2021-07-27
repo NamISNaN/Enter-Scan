@@ -177,7 +177,7 @@
 
     tagNumChange(){
       this.tagNum ++
-      if (this.tagNum > 5){
+      if (this.tagNum > 4){
         this.tagNum = 1
         this.changeInfoFlag = true
       }
