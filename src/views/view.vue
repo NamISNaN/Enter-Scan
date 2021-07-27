@@ -145,9 +145,9 @@
       leaveSchool:'08:00:00',
       returnSchool:'20:00:00',
       sendTime:'07:30:21',
-      name: '陈磊',
+      name: '谢楚昕',
       code:'1830050039',
-      sex:'男',
+      sex:'女',
       discipline:'数学与应用科学（师范）',
       reason:'买东西',
       suggest:'系统自动审批',
@@ -158,7 +158,7 @@
     date:any =  new Date() //当前日期
     timer:any
     changeInfoFlag:boolean = false
-    inSchool:boolean = false
+    inSchool:boolean = true
 
     getLeaveSchoolDay(){}
 
@@ -177,7 +177,7 @@
 
     tagNumChange(){
       this.tagNum ++
-      if (this.tagNum > 6){
+      if (this.tagNum > 5){
         this.tagNum = 1
         this.changeInfoFlag = true
       }
