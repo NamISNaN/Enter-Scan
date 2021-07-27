@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09bfe6b0-c175-4a2d-87ba-762d4b76fb46" name="Default Changelist" comment="修改参数">
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.afbdd493.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/chunk-vendors.5eea88d7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/element-icons.535877f5.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/element-icons.732389de.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/about.fabf2f21.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/about.fabf2f21.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.e01a1ca6.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.e01a1ca6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.e01a1ca6.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.e01a1ca6.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.5bd7d833.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.5bd7d833.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.c73166bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.c73166bd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shims-tsx.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shims-vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/input.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/view.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="Vue_work" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ta1tGkinjHRko8sMcww9khH8EM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09bfe6b0-c175-4a2d-87ba-762d4b76fb46" name="Default Changelist" comment="" />
+      <created>1622992598519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622992598519</updated>
+      <workItem from="1622992599951" duration="4065000" />
+      <workItem from="1623078743448" duration="3464000" />
+      <workItem from="1623168516842" duration="5219000" />
+      <workItem from="1623201578434" duration="1364000" />
+      <workItem from="1623207468351" duration="328000" />
+      <workItem from="1623344767960" duration="1079000" />
+      <workItem from="1623345899394" duration="1526000" />
+      <workItem from="1623377841776" duration="3591000" />
+      <workItem from="1623577842241" duration="735000" />
+      <workItem from="1623918606536" duration="2117000" />
+      <workItem from="1623921191306" duration="1971000" />
+      <workItem from="1624170016993" duration="236000" />
+      <workItem from="1627384119426" duration="2180000" />
+    </task>
+    <task id="LOCAL-00001" summary="dist add">
+      <created>1623920071713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623920071718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dist add">
+      <created>1623926232190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623926232190</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dist add">
+      <created>1623926258039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623926258039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dist add">
+      <created>1623926327429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623926327429</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dist add">
+      <created>1624170167672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624170167672</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改默认参数">
+      <created>1627384511680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627384511680</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dist add">
+      <created>1627388563521</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627388563522</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修改参数">
+      <created>1627388685511</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627388685511</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改参数">
+      <created>1627388724269</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627388724269</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改参数">
+      <created>1627388967908</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627388967908</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <MESSAGE value="修改默认参数" />
+    <MESSAGE value="dist add" />
+    <MESSAGE value="修改参数" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改参数" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2280" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623346121177">
+      <screen x="1920" y="0" width="1792" height="1120" />
+    </state>
+    <state x="2280" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1792.1120@1920.0.1792.1120" timestamp="1623346121177" />
+    <state x="730" y="495" key="Github.CreateGistDialog" timestamp="1623919386651">
+      <screen x="48" y="25" width="1744" height="1095" />
+    </state>
+    <state x="730" y="495" key="Github.CreateGistDialog/1792.-1308.1692.2983/48.25.1744.1095@48.25.1744.1095" timestamp="1623919386651" />
+    <state x="617" y="279" key="RollbackChangesDialog" timestamp="1623921054377">
+      <screen x="49" y="25" width="1743" height="1095" />
+    </state>
+    <state x="617" y="279" key="RollbackChangesDialog/1792.-1308.1692.2983/49.25.1743.1095@49.25.1743.1095" timestamp="1623921054377" />
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1623172499884">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1623172499884" />
+    <state x="630" y="127" width="582" height="686" key="find.popup" timestamp="1623921561880">
+      <screen x="49" y="25" width="1743" height="1095" />
+    </state>
+    <state x="597" y="104" width="598" height="701" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1623203128034" />
+    <state x="2517" y="104" width="598" height="701" key="find.popup/0.0.1920.1080/1920.0.1792.1120@1920.0.1792.1120" timestamp="1623346994049" />
+    <state x="630" y="127" width="582" height="686" key="find.popup/1792.-1308.1692.2983/49.25.1743.1095@49.25.1743.1095" timestamp="1623921561880" />
+    <state x="626" y="436" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1627389535314">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="626" y="436" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1627389535314" />
+  </component>
+</project>
