@@ -4,9 +4,9 @@
         <section data-v-4cf483f6="" class="result big-size"><p data-v-4cf483f6="">
             出校备案编号：{{userData.markCode}}
         </p>
-            <p v-if="leaveSchoolFlag&&!inSchool" data-v-4cf483f6=""><span data-v-4cf483f6="" >状态：</span><span data-v-4cf483f6="" class="bgc-blue" >已离校(当日返校)</span></p>
-            <p v-if="!leaveSchoolFlag&&!inSchool" data-v-4cf483f6=""><span data-v-4cf483f6="">状态：</span><span data-v-4cf483f6=""  class="bgc-yellow">已返校(当日返校)</span></p>
-            <p v-if="!leaveSchoolFlag&&inSchool" data-v-4cf483f6=""><span data-v-4cf483f6="">状态：</span><span data-v-4cf483f6=""  class="bgc-blue">已离校(当日返校)</span></p>
+            <p v-if="leaveSchoolFlag&&!inSchool" data-v-4cf483f6=""><span data-v-4cf483f6="" >状态：</span><span data-v-4cf483f6="" class="bgc-blue" >当天返回--已离校</span></p>
+            <p v-if="!leaveSchoolFlag&&!inSchool" data-v-4cf483f6=""><span data-v-4cf483f6="">状态：</span><span data-v-4cf483f6=""  class="bgc-yellow">当天返回--已返校</span></p>
+            <p v-if="!leaveSchoolFlag&&inSchool" data-v-4cf483f6=""><span data-v-4cf483f6="">状态：</span><span data-v-4cf483f6=""  class="bgc-blue">当天返回--已离校</span></p>
             <p v-if="leaveSchoolFlag&&inSchool" data-v-4cf483f6=""><span data-v-4cf483f6="" >状态：</span><span data-v-4cf483f6="" class="bgc-green" >当日返校已备案</span></p>
 
             <p data-v-4cf483f6=""><span data-v-4cf483f6="">出校日期：</span><span data-v-4cf483f6="">{{date|formatDateByDays(this)}}</span></p>
