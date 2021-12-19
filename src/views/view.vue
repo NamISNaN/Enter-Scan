@@ -19,7 +19,7 @@
             <p data-v-4cf483f6="" style="font-size:.46rem"><span data-v-4cf483f6="">提交时间：{{date|formatDateByDays(this)}}</span><span data-v-4cf483f6=""> {{userData.sendTime}}</span></p>
             <p data-v-4cf483f6=""><span data-v-4cf483f6="">姓名：{{userData.name}}</span><span data-v-4cf483f6=""></span></p>
             <p data-v-4cf483f6=""><span data-v-4cf483f6="">学号：{{userData.code}}</span><span data-v-4cf483f6=""></span></p>
-            <p data-v-4cf483f6=""><span data-v-4cf483f6="">性别：</span><span data-v-4cf483f6="">男</span></p>
+            <p data-v-4cf483f6=""><span data-v-4cf483f6="">性别：</span><span data-v-4cf483f6="">女</span></p>
             <p data-v-4cf483f6=""><span data-v-4cf483f6="">学院：天津师范大学</span><span data-v-4cf483f6=""></span></p>
             <p data-v-4cf483f6=""><span data-v-4cf483f6="">专业：{{userData.discipline}}</span><span data-v-4cf483f6=""></span></p><!----><p
                     data-v-4cf483f6=""><span data-v-4cf483f6="">年级：</span><span data-v-4cf483f6=""></span></p>
